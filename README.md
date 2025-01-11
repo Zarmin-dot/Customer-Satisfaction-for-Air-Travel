@@ -11,7 +11,7 @@ Airport customers have given feedback on a variety of features of the airport. F
 
 The first dataset has 129,880 records and has 23 variables that were measured per trip as detailed below:
 
-<img width="834" alt="Screen Shot 2024-06-18 at 10 33 40 PM" src="https://github.com/faizankhan29/Customer-Satisfaction-for-Airline-Travel/assets/10673214/1afe19f7-f0ba-4133-9538-361e42259994">
+<img width="834" alt="Screen Shot 2024-06-18 at 10 33 40 PM" src="https://github.com/Zarmin-dot/Customer-Satisfaction-for-Air-Travel/main/images/1afe19f7-f0ba-4133-9538-361e42259994">
 
 The data was included in the source in 2020 and the information was anonymously given. The name for the airline used for this example is Invistico airlines. The rows represent the individual customer feedback, and the column names are the measures that capture the
 customer related information as well as their experience of travelling with the company including how they have rated several airplane features. The columns also mention details about the flight that the customer has taken, as well as features of the particular airplane.
